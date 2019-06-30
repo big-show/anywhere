@@ -1,0 +1,27 @@
+{
+  "name": "anywhere",
+  "version": "0.1.1",
+  "description": "Tiny NodeJS Web server",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/big-show/anywhere.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/big-show/anywhere/issues"
+  },
+  "homepage": "https://github.com/big-show/anywhere#readme",
+  "devDependencies": {
+    "eslint": "^6.0.1",
+    "eslint-config-google": "^0.13.0",
+    "eslint-plugin-react": "^7.14.2",
+    "handlebars": "^4.1.2",
+    "yargs": "^13.2.4"
+  }
+}
